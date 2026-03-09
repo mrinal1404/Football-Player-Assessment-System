@@ -8,11 +8,11 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://drive.google.com/file/d/1QZuMyyznfKo_rmcIaOzJ9sT_2EgzfY6U/view?usp=drive_link" alt="Picture1.png" >
+https://drive.google.com/file/d/1QZuMyyznfKo_rmcIaOzJ9sT_2EgzfY6U/view?usp=drive_link
 
-<img src="https://drive.google.com/file/d/1s_bbHFyAl14qyqkE1TnUCG39DgY74Qk1/view?usp=drive_link" alt="Picture2.png" >
+https://drive.google.com/file/d/1s_bbHFyAl14qyqkE1TnUCG39DgY74Qk1/view?usp=drive_link
 
-<img src="https://drive.google.com/file/d/1W40iA3wX4qK2RsSDO8lBFRJru-nnBKlD/view?usp=drive_link" alt="Picture3.png" >
+https://drive.google.com/file/d/1W40iA3wX4qK2RsSDO8lBFRJru-nnBKlD/view?usp=drive_link
 
 <h2>🛠️ Installation Steps:</h2>
 
